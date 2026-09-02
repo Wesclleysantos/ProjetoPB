@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "migrate": "tsx src/database/migrate.ts"
+    "migrate": "tsx src/database/migrate.ts",
+    "seed": "tsx src/database/seed.ts"
   },
   "dependencies": {
     "dotenv": "^17.4.2",
