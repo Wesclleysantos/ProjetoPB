@@ -30,6 +30,8 @@ POST /meta
 GET /bebidas
 GET /consumos
 GET /meta
+GET /conquistas
+GET /progresso
 Esses endpoints foram priorizados porque representam as funcionalidades principais do sistema. Primeiro, é necessário permitir o
 cadastro e a autenticação do usuário. Em seguida, é necessário disponibilizar as bebidas cadastradas, permitir o registro dos consumos e
 o gerenciamento da meta de hidratação, além de possibilitar a consulta dos consumos e da meta. Com essas funcionalidades, já será
